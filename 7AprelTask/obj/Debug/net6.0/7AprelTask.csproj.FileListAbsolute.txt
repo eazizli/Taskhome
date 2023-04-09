@@ -1,0 +1,15 @@
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\bin\Debug\net6.0\7AprelTask.exe
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\bin\Debug\net6.0\7AprelTask.deps.json
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\bin\Debug\net6.0\7AprelTask.runtimeconfig.json
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\bin\Debug\net6.0\7AprelTask.dll
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\bin\Debug\net6.0\7AprelTask.pdb
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.csproj.AssemblyReference.cache
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.AssemblyInfoInputs.cache
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.AssemblyInfo.cs
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.csproj.CoreCompileInputs.cache
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.dll
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\refint\7AprelTask.dll
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.pdb
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\7AprelTask.genruntimeconfig.cache
+C:\Users\victu\Desktop\7AprelTask\7AprelTask\obj\Debug\net6.0\ref\7AprelTask.dll
